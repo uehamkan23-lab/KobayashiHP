@@ -1,0 +1,27 @@
+.title {
+    color: rgba(30, 69, 255, 0.52);
+    background-color: aquamarine
+}
+
+body {
+  background-color: #ff4747;
+}
+
+.mainDiv {
+  background-color: #6700ff;
+    color: aliceblue
+}
+
+.p {
+  background-image: url("images.jpg"); /* 画像のパスを指定 */
+  width: 100%;                              /* 横幅 */
+  height: px;         
+}
+
+.p{
+    color: #d1f100
+}
+
+.image{
+    width: 30%
+}
