@@ -4,3 +4,9 @@ function buttonClicked() {
     document.getElementById("mainDiv").textContent =
         "Button Clicked times: " + numButtonClicks;
 }
+
+function buttonClicked1() {
+    numButtonClicks = 0;
+    document.getElementById("mainDiv").textContent =
+        "Button Clicked times: " + "0";
+}
